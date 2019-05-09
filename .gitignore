@@ -14,3 +14,5 @@
 /Source/CSharpHighPerf/AsyncCompress/obj
 /Source/CSharpHighPerf/AsyncIO/bin/Release/netcoreapp2.2
 /Source/CSharpHighPerf/AsyncIO/obj
+/Source/CSharpHighPerf/FromAsyncIO/obj
+/Source/CSharpHighPerf/FromAsyncIO/bin/Release/netcoreapp2.2

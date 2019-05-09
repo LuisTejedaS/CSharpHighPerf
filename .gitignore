@@ -8,3 +8,5 @@
 /Source/CSharpHighPerf/AsyncFileReading/bin/Debug/netcoreapp2.2
 /Source/CSharpHighPerf/Parallel/obj
 /Source/CSharpHighPerf/Parallel/bin/Release/netcoreapp2.2
+/Source/CSharpHighPerf/TestTasks/bin/Release/netcoreapp2.2
+/Source/CSharpHighPerf/TestTasks/obj

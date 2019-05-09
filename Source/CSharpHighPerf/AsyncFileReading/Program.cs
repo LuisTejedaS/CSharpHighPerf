@@ -9,11 +9,18 @@ using System.Threading.Tasks;
 
 namespace AsyncFileReading
 {
+    /// <summary>
+    /// Test different ways to read files
+    /// </summary>
     class Program
     {
+        /// <summary>
+        /// Diferent aproaches to read a txt file set the filepath to a file of 1000MB
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
-            var filePath = @"C:\Users\Luis.Tejeda\Downloads\amd64\1000MB.txt";
+            var filePath = @"...\1000MB.txt";
             Stopwatch watch = new Stopwatch();
             Stopwatch watch2 = new Stopwatch();
             Stopwatch watch3 = new Stopwatch();

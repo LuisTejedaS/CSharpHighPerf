@@ -10,3 +10,5 @@
 /Source/CSharpHighPerf/Parallel/bin/Release/netcoreapp2.2
 /Source/CSharpHighPerf/TestTasks/bin/Release/netcoreapp2.2
 /Source/CSharpHighPerf/TestTasks/obj
+/Source/CSharpHighPerf/AsyncCompress/bin/Release/netcoreapp2.2
+/Source/CSharpHighPerf/AsyncCompress/obj

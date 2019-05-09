@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel", "Parallel\Parall
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTasks", "TestTasks\TestTasks.csproj", "{A34DAC66-64CE-46CE-8A03-C5A4C87134C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCompress", "AsyncCompress\AsyncCompress.csproj", "{BB8E2007-6002-423C-8C4C-BC5970A2E9A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A34DAC66-64CE-46CE-8A03-C5A4C87134C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A34DAC66-64CE-46CE-8A03-C5A4C87134C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A34DAC66-64CE-46CE-8A03-C5A4C87134C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8E2007-6002-423C-8C4C-BC5970A2E9A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8E2007-6002-423C-8C4C-BC5970A2E9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8E2007-6002-423C-8C4C-BC5970A2E9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8E2007-6002-423C-8C4C-BC5970A2E9A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -39,3 +39,5 @@
 /Source/CSharpHighPerf/ExceptionCost/obj
 /Source/CSharpHighPerf/ForAndForEach/bin/Release/netcoreapp2.2
 /Source/CSharpHighPerf/ForAndForEach/obj
+/Source/CSharpHighPerf/StringOperations/bin/Release/netcoreapp2.2
+/Source/CSharpHighPerf/StringOperations/obj

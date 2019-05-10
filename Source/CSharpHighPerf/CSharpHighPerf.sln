@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionCost", "ExceptionC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForAndForEach", "ForAndForEach\ForAndForEach.csproj", "{1D0C34F2-B9FA-4F2E-A22B-7C158AA3247E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringOperations", "StringOperations\StringOperations.csproj", "{62AA2CDF-AF72-451A-92EF-9FB52C2CF2FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{1D0C34F2-B9FA-4F2E-A22B-7C158AA3247E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D0C34F2-B9FA-4F2E-A22B-7C158AA3247E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D0C34F2-B9FA-4F2E-A22B-7C158AA3247E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62AA2CDF-AF72-451A-92EF-9FB52C2CF2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AA2CDF-AF72-451A-92EF-9FB52C2CF2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AA2CDF-AF72-451A-92EF-9FB52C2CF2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AA2CDF-AF72-451A-92EF-9FB52C2CF2FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

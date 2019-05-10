@@ -21,3 +21,5 @@
 /Source/CSharpHighPerf/InterlockedSample/obj
 /Source/CSharpHighPerf/LockVariable/bin/Release/netcoreapp2.2
 /Source/CSharpHighPerf/LockVariable/obj
+/Source/CSharpHighPerf/VolatileSample/bin/Release/netcoreapp2.2
+/Source/CSharpHighPerf/VolatileSample/obj

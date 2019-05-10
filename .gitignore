@@ -25,3 +25,5 @@
 /Source/CSharpHighPerf/VolatileSample/obj
 /Source/CSharpHighPerf/LightResource/bin/Release/netcoreapp2.2
 /Source/CSharpHighPerf/LightResource/obj
+/Source/CSharpHighPerf/BoxUnbox/bin/Release/netcoreapp2.2
+/Source/CSharpHighPerf/BoxUnbox/obj

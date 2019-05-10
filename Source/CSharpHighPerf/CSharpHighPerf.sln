@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolatileSample", "VolatileS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightResource", "LightResource\LightResource.csproj", "{32FF5E41-55CC-4673-B73B-C1918D4FCF0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxUnbox", "BoxUnbox\BoxUnbox.csproj", "{ADA5FB21-8A6A-44E7-AA72-4429ABDB4527}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{32FF5E41-55CC-4673-B73B-C1918D4FCF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32FF5E41-55CC-4673-B73B-C1918D4FCF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32FF5E41-55CC-4673-B73B-C1918D4FCF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA5FB21-8A6A-44E7-AA72-4429ABDB4527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA5FB21-8A6A-44E7-AA72-4429ABDB4527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA5FB21-8A6A-44E7-AA72-4429ABDB4527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA5FB21-8A6A-44E7-AA72-4429ABDB4527}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

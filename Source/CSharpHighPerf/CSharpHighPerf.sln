@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromAsyncIO", "FromAsyncIO\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitSample", "AsyncAwaitSample\AsyncAwaitSample.csproj", "{92194CF1-56F2-4104-935C-D92B1CEBBCCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterlockedSample", "InterlockedSample\InterlockedSample.csproj", "{F2F31D7B-866B-463A-B8FF-DEB5F0E518E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{92194CF1-56F2-4104-935C-D92B1CEBBCCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92194CF1-56F2-4104-935C-D92B1CEBBCCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92194CF1-56F2-4104-935C-D92B1CEBBCCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F31D7B-866B-463A-B8FF-DEB5F0E518E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F31D7B-866B-463A-B8FF-DEB5F0E518E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F31D7B-866B-463A-B8FF-DEB5F0E518E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F31D7B-866B-463A-B8FF-DEB5F0E518E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,3 +17,5 @@
 /Source/CSharpHighPerf/FromAsyncIO/obj
 /Source/CSharpHighPerf/FromAsyncIO/bin/Release/netcoreapp2.2
 /Source/CSharpHighPerf/AsyncAwaitSample/obj
+/Source/CSharpHighPerf/InterlockedSample/bin/Release/netcoreapp2.2
+/Source/CSharpHighPerf/InterlockedSample/obj

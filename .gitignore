@@ -19,3 +19,5 @@
 /Source/CSharpHighPerf/AsyncAwaitSample/obj
 /Source/CSharpHighPerf/InterlockedSample/bin/Release/netcoreapp2.2
 /Source/CSharpHighPerf/InterlockedSample/obj
+/Source/CSharpHighPerf/LockVariable/bin/Release/netcoreapp2.2
+/Source/CSharpHighPerf/LockVariable/obj

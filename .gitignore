@@ -27,3 +27,13 @@
 /Source/CSharpHighPerf/LightResource/obj
 /Source/CSharpHighPerf/BoxUnbox/bin/Release/netcoreapp2.2
 /Source/CSharpHighPerf/BoxUnbox/obj
+/Source/CSharpHighPerf/AsyncAwaitSample/bin/Release/netcoreapp2.2
+/Source/CSharpHighPerf/AsyncFileReading/bin/Release/netcoreapp2.2
+/Source/CSharpHighPerf/DelegatesIL/bin/Release/netcoreapp2.2
+/Source/CSharpHighPerf/DelegatesIL/obj
+/Source/CSharpHighPerf/DynamicIL/bin/Release/netcoreapp2.2
+/Source/CSharpHighPerf/DynamicIL/obj
+/Source/CSharpHighPerf/Exceptional/obj
+/Source/CSharpHighPerf/ExceptionCost/bin/Release/netcoreapp2.2
+/Source/CSharpHighPerf/ExceptionCost/obj/Release/netcoreapp2.2
+/Source/CSharpHighPerf/ExceptionCost/obj
